@@ -25,6 +25,6 @@ The project requires the following libraries:
 
 Watch the video below to see the implementation in action:
 
-[![Implementation Video](media/implementation_video_thumbnail.png)](media/implementation_video.mp4)
+[![Implementation Video](Screenshot 2024-10-31 000004.png)](Method 2 Demonstration Video.mp4)
 
 > Click the image above to view the video directly in GitHub.
