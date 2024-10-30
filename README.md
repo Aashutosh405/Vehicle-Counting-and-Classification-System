@@ -20,3 +20,11 @@ The system processes each frame of a video file, applies background subtraction 
 The project requires the following libraries:
 - [OpenCV](https://opencv.org/) - for video processing and contour detection.
 - [NumPy](https://numpy.org/) - for array manipulation.
+
+## Implementation Video
+
+Watch the video below to see the implementation in action:
+
+[![Implementation Video](media/implementation_video_thumbnail.png)](media/implementation_video.mp4)
+
+> Click the image above to view the video directly in GitHub.
