@@ -21,10 +21,3 @@ The project requires the following libraries:
 - [OpenCV](https://opencv.org/) - for video processing and contour detection.
 - [NumPy](https://numpy.org/) - for array manipulation.
 
-## Implementation Video
-
-Watch the video below to see the implementation in action:
-
-[![Implementation Video](Screenshot 2024-10-31 000004.png)](Method 2 Demonstration Video.mp4)
-
-> Click the image above to view the video directly in GitHub.
